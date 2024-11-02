@@ -1,0 +1,14 @@
+C:\Users\лол\source\repos\AppLINQ\bin\Debug\net8.0\AppLINQ.exe
+C:\Users\лол\source\repos\AppLINQ\bin\Debug\net8.0\AppLINQ.deps.json
+C:\Users\лол\source\repos\AppLINQ\bin\Debug\net8.0\AppLINQ.runtimeconfig.json
+C:\Users\лол\source\repos\AppLINQ\bin\Debug\net8.0\AppLINQ.dll
+C:\Users\лол\source\repos\AppLINQ\bin\Debug\net8.0\AppLINQ.pdb
+C:\Users\лол\source\repos\AppLINQ\obj\Debug\net8.0\AppLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\лол\source\repos\AppLINQ\obj\Debug\net8.0\AppLINQ.AssemblyInfoInputs.cache
+C:\Users\лол\source\repos\AppLINQ\obj\Debug\net8.0\AppLINQ.AssemblyInfo.cs
+C:\Users\лол\source\repos\AppLINQ\obj\Debug\net8.0\AppLINQ.csproj.CoreCompileInputs.cache
+C:\Users\лол\source\repos\AppLINQ\obj\Debug\net8.0\AppLINQ.dll
+C:\Users\лол\source\repos\AppLINQ\obj\Debug\net8.0\refint\AppLINQ.dll
+C:\Users\лол\source\repos\AppLINQ\obj\Debug\net8.0\AppLINQ.pdb
+C:\Users\лол\source\repos\AppLINQ\obj\Debug\net8.0\AppLINQ.genruntimeconfig.cache
+C:\Users\лол\source\repos\AppLINQ\obj\Debug\net8.0\ref\AppLINQ.dll
